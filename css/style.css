@@ -1,0 +1,37 @@
+body {
+    background-color:rgb(212, 201, 186);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h2 {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.list {
+    background-color: antiquewhite;
+    padding: 15px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+a:link {
+    color:rgb(73, 162, 240);
+}
+
+a:hover {
+    color:rgb(255, 116, 41);
+}
+
+a:visited {
+    color:rgb(55, 55, 55);
+}
+
+a:active {
+    color:rgb(137, 106, 75);
+}
